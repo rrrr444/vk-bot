@@ -1,0 +1,11 @@
+Subject: [PATCH] Initial commit
+---
+Index: README.md
+===================================================================
+diff --git a/README.md b/README.md
+new file mode 100644
+--- /dev/null	(revision ae0eaee825d2bd9c20e3a3fd3328b6a892b68a81)
++++ b/README.md	(revision ae0eaee825d2bd9c20e3a3fd3328b6a892b68a81)
+@@ -0,0 +1,1 @@
++# vk-bot
+\ No newline at end of file
